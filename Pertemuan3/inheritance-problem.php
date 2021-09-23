@@ -1,3 +1,9 @@
+<!-- Inheritance -->
+<!-- Menciptakan Hierarki Antar Kelas Parent dan Child -->
+<!-- Child Class, Mewarisi semua properti dan methode dari parentnya (yang Visible) -->
+<!-- Child Class, memperluas(extends) fungsionalitas dari parentnya -->
+
+
 <?php
 // Jualan Produk
 // Komik
